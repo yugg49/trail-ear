@@ -1,0 +1,7 @@
+birdnetlib
+tensorflow
+librosa
+resampy
+ollama
+sounddevice
+soundfile
